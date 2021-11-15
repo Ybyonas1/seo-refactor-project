@@ -20,6 +20,8 @@
     var myVal = 0;
 ```
 
+This is a simple update to the README.rd file
+
  ## Visuals
 This is a paragraph  
 This is another paragraph
