@@ -37,4 +37,4 @@ Visually the website seemed to stay the same.
 ### I'm not really sure what more I can add to the readme, hopefully this will be a learning expereince & I'll be able to know if there needs to be more content on the readme's I create in the near future. 
 Thank you.
 
-### Assignment by- Yonas Woldemichael
+### Assignment by - Yonas Woldemichael
