@@ -1,6 +1,5 @@
 # seo-refactor-project
 ## 01 HTML, CSS, and Git: Code Refactor
-### Assignment by- Yonas Woldemichael
 
 ## Table of Contents
  - [Description](#description)
@@ -28,27 +27,9 @@ Visually the website seemed to stay the same.
 - The usage of the website seems to stay the same as well. just simple tabs that draw your attention to the sections before describing those tabs
 
 
-[Link to the deployed site](https://www.google.com)
+[Link to the deployed site](https://ybyonas1.github.io/seo-refactor-project/)
 
-![Spongebob Squarepants](https://c.tenor.com/D4aKcpzBNnMAAAAC/spongebob-meme.gif)
+### I'm not really sure what more i can add to the readme, hopefully this will be a learning expereince & I'll be able to know if there needs to be more content on the readme's I create in the near future. 
+Thank you.
 
-Ordered list
-
-1. 1
-2. 2
-3. 3
-4. 4
-
-Unordered lists
-
-- 1
-- 2
-- 3
-- 4
-
-Lists with starts
-
-* 1
-* 2
-* 3
-* 4
+### Assignment by- Yonas Woldemichael
