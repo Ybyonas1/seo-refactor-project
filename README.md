@@ -9,27 +9,26 @@
  - [Usage](#usage)
 
  ## Description
- How to put content into my description A.K.A How to write standard text
+ In this assigbment the student was given the task of refracting the existing code on a website, or in laymen terms, to fix all of the disfunctioning items & irregularities within this site.
+
+ This assignment was also a great method for me to understand how to deploy & save my code onto github.
 
  ## Installation
-```npm install```
-
-```js
-    var myVal = 0;
-```
-
-This is a simple update to the README.rd file
+Nothing new was installed, only simple tweaks to code every here & there were made.
 
  ## Visuals
-This is a paragraph  
-This is another paragraph
+The website visuals include:
+- A group of people surrounding a desk that appear to be in a meeting:
+- Colorful images of seo & social media marketing
+- The footer also contains a hear as well.
 
-This is a third paragraph
+Visually the website seemed to stay the same.
 
  ## Usage
+- The usage of the website seems to stay the same as well. just simple tabs that draw your attention to the sections before describing those tabs
 
 
-[Link to google](https://www.google.com)
+[Link to the deployed site](https://www.google.com)
 
 ![Spongebob Squarepants](https://c.tenor.com/D4aKcpzBNnMAAAAC/spongebob-meme.gif)
 
