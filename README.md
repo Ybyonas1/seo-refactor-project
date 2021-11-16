@@ -1,8 +1,6 @@
 # seo-refactor-project
-
-# Title
-## Subtitle
-### Smaller title
+## 01 HTML, CSS, and Git: Code Refactor
+### Assignment by- Yonas Woldemichael
 
 ## Table of Contents
  - [Description](#description)
