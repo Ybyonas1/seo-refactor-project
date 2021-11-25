@@ -1,6 +1,9 @@
 # seo-refactor-project
 ## 01 HTML, CSS, and Git: Code Refactor
 
+![Horiseon Assignment](./images/screen-shot.png)
+not sure why this isn't displaying in the preview README
+
 ## Table of Contents
  - [Description](#description)
  - [Installation](#installation)
@@ -21,6 +24,9 @@
 Nothing new was installed, only simple tweaks to code every here & there were made.
 
  ## Visuals
+![Horiseon Assignment](./images/screen-shot.png)
+not sure why this isn't displaying in the preview README
+
 The website visuals include:
 - A group of people surrounding a desk that appear to be in a meeting.
 - Colorful images of seo & social media marketing
@@ -33,6 +39,8 @@ Visually the website seemed to stay the same.
 
 
 [Link to the deployed site](https://ybyonas1.github.io/seo-refactor-project/)
+
+[Repository](https://github.com/Ybyonas1/seo--refactor-exc-yw)
 
 ### I'm not really sure what more I can add to the readme, hopefully this will be a learning expereince & I'll be able to know if there needs to be more content on the readme's I create in the near future. 
 Thank you.
